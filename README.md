@@ -2,7 +2,7 @@
 - 👀 I’m interested in WEB-DEVELOPMENT
 - 🌱 I’m currently learning back-end development with javaScript 👍
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... 👉👉 https://twitter.com/firoz_a7
+- 📫 How to reach me ... 👉👉 linkedin.com/in/firoz-akhter-6289382b9
 
 <!---
 firoz-akhter/firoz-akhter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
