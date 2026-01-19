@@ -44,11 +44,11 @@ Solving problems with code, one commit at a time 🚀
 
 <div align="center">
   
-![Firoz's GitHub stats](https://github-readme-stats.vercel.app/api?username=firozakhter&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae)
+![Firoz's GitHub stats](https://github-readme-stats.vercel.app/api?username=firoz-akhter&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=firozakhter&theme=tokyonight&hide_border=true&background=1a1b27&stroke=38bdae&ring=70a5fd&fire=bf91f3&currStreakLabel=70a5fd)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=firoz-akhter&theme=tokyonight&hide_border=true&background=1a1b27&stroke=38bdae&ring=70a5fd&fire=bf91f3&currStreakLabel=70a5fd)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firozakhter&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firoz-akhter&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae)
 
 </div>
 
@@ -56,7 +56,7 @@ Solving problems with code, one commit at a time 🚀
 
 <div align="center">
   
-![trophy](https://github-profile-trophy.vercel.app/?username=firozakhter&theme=tokyonight&no-frame=true&no-bg=true&column=7)
+![trophy](https://github-profile-trophy.vercel.app/?username=firoz-akhter&theme=tokyonight&no-frame=true&no-bg=true&column=7)
 
 </div>
 
@@ -66,6 +66,6 @@ Solving problems with code, one commit at a time 🚀
   
 ### 💻 "Code is like humor. When you have to explain it, it's bad." – Cory House
 
-![Profile Views](https://komarev.com/ghpvc/?username=firozakhter&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=firoz-akhter&color=blueviolet&style=for-the-badge)
 
 </div>
